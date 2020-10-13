@@ -5,6 +5,7 @@ Projeto criado usando a tecnologia [React](https://pt-br.reactjs.org/) e a ferra
 ### Tecnologias usadas
 
 - React
+- Typescript
 - Styled-components
 - Styled-icons e mais
 
