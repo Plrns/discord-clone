@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { ExpandMore } from 'styled-icons/material'
+import { ExpandMore } from "styled-icons/material";
 
 export const Container = styled.div`
   display: flex;
@@ -23,9 +23,9 @@ export const Title = styled.div`
 `;
 
 export const ExpandIcon = styled(ExpandMore)`
-    width: 28px;
-    height: 28px;
+  width: 28px;
+  height: 28px;
 
-    color: var(--white);
-    cursor: pointer;
+  color: var(--white);
+  cursor: pointer;
 `;
